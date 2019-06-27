@@ -1,1 +1,2 @@
-# Week1
+# Kalkulator
+Aplikasi ini adalah aplikasi kalkulator sederhana
